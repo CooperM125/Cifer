@@ -1,0 +1,7 @@
+Will only take in text with no puncuation.
+Lacks a Gui
+
+Wants
+#Make a Gui 
+#Make into a .exe file
+ 
